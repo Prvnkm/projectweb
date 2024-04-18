@@ -287,4 +287,8 @@ margin:auto;
   .service-container-2{
     flex-direction: column;
   }
+    .new-arrival{
+    display: none;
+    
+  }
 }
